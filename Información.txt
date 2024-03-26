@@ -1,0 +1,2 @@
+- Mi idea es hacer una página web de recetas donde se muestren distintos ingredientes que uno pueda ir seleccionando, enviarlos, y en base a
+los ingredientes seleccionados mostrar las recetas que se pueden hacer.
